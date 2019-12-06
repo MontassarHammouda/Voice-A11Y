@@ -68,8 +68,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 
-1Type chrome://flags/#unsafely-treat-insecure-origin-as-secure in the address bar.
-Add the origin which you need to treat as secure as shown in the below image.
+1)Type chrome://flags/#unsafely-treat-insecure-origin-as-secure in the address bar.
+
+2)Add the origin which you need to treat as secure as shown in the below image.
 https://i.stack.imgur.com/8HpYF.png
 enter image description here
 
